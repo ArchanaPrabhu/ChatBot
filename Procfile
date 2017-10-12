@@ -1,1 +1,1 @@
-web: python todobot.py -p $PORT
+web: python todobot.py
